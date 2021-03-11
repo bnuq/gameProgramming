@@ -7,15 +7,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Practice1\Game.cpp">
+    <ClCompile Include="Ex1_2\Game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Practice1\Main.cpp">
+    <ClCompile Include="Ex1_2\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Practice1\Game.h">
+    <ClInclude Include="Ex1_2\Game.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
